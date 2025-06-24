@@ -1,5 +1,4 @@
-# PaCMAP [![Tests](https://github.com/YingfanWang/PaCMAP/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/YingfanWang/PaCMAP/actions/workflows/test.yml)
-[![Ruff Lint](https://github.com/gauravrparikh/PaCMAP/actions/workflows/lint.yml/badge.svg)](https://github.com/gauravrparikh/PaCMAP/actions/workflows/lint.yml)
+# PaCMAP [![Tests](https://github.com/YingfanWang/PaCMAP/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/YingfanWang/PaCMAP/actions/workflows/test.yml)[![Ruff Lint](https://github.com/gauravrparikh/PaCMAP/actions/workflows/lint.yml/badge.svg)](https://github.com/gauravrparikh/PaCMAP/actions/workflows/lint.yml)
 
 
 ## <a name='News'></a>News
