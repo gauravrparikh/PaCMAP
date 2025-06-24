@@ -6,6 +6,9 @@ import sys
 from pathlib import Path
 import pytest
 
+# Import data loader from the same directory
+from data_loader import load_datasets_from_fixture
+
 # Add the source directory to Python path so we can import pacmap
 source_dir = Path(__file__).parent.parent / "source"
 sys.path.insert(0, str(source_dir))
@@ -14,8 +17,6 @@ sys.path.insert(0, str(source_dir))
 test_output_dir = Path(__file__).parent / "output"
 test_output_dir.mkdir(exist_ok=True)
 
-# Import data loader from the same directory
-from data_loader import load_datasets_from_fixture
 
 
 @pytest.fixture(scope="session")
